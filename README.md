@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Pankaja
+## Hi there 👋, I'm Pankaja Jayasinghe
 
 **An undergraduate in ICT**
 
-📧 How to reach me: pankaa.lka@gmail.com.com  
+📧 How to reach me: pankaa.lka@gmail.com
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Pankajaj)

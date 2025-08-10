@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Pankaja
 
-<!--
-**pnkj431/pnkj431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**An undergraduate in ICT**
 
-Here are some ideas to get you started:
+📧 How to reach me: pankaa.lka@gmail.com.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Pankajaj)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://facebook.com/Pankaja_Jayasinghe)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/_pankaja03_)
+
+---
+
+## 🛠 Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+
+---
+
+⭐ From [YourUsername](https://github.com/pnkj431)
+
+
